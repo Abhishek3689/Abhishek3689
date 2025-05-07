@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek Nishad! 👋
-Hi there! 👋 I’m a passionate Data Scientist with a love for solving real-world problems through machine learning, deep learning, and generative AI.
+Hi there! 👋 I’m a passionate Data Scientist/ML Engineer with a love for solving real-world problems through machine learning, deep learning, and generative AI.
 I thrive on extracting insights from data, building innovative AI solutions, and continuously learning cutting-edge technologies to make a meaningful impact.
 
 ## GitHub Stats
